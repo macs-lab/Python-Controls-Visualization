@@ -4,6 +4,11 @@ Click the button below to launch the binder repository of notebooks
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/macs-lab/Python-Controls-Visualization/main)
 
+## Individual Modules
+[Inverted Pendulum-Cart Control](https://mybinder.org/v2/gh/macs-lab/Python-Controls-Visualization/bdeb35d89f344c499a280fcf606a0be05411694c)
+[Inverted Pendulum-Cart Pole Placement](https://mybinder.org/v2/gh/macs-lab/Python-Controls-Visualization/bdeb35d89f344c499a280fcf606a0be05411694c)
+[Transition from MATLAB to Python Controls Package](https://mybinder.org/v2/gh/macs-lab/Python-Controls-Visualization/bdeb35d89f344c499a280fcf606a0be05411694c)
+
 ## 1 - Visualizing Control Systems in Python
 
 This repository contains the files for creating visualizations using different python packages. 
