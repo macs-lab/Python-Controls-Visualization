@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipython
+  - ipywidgets
+  - matplotlib
+  - control
+  - scipy
+  - slycot
+  - streamlit
