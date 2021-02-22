@@ -5,11 +5,11 @@ Click the button below to launch the binder repository of notebooks
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/macs-lab/Python-Controls-Visualization/main)
 
 ## Individual Modules
-[Inverted Pendulum-Cart Control](https://mybinder.org/v2/gh/macs-lab/Python-Controls-Visualization/bdeb35d89f344c499a280fcf606a0be05411694c?filepath=Notebooks%2FInverted_Pendulum_Control_Demo.ipynb)
+[Inverted Pendulum-Cart Control](https://mybinder.org/v2/gh/macs-lab/Python-Controls-Visualization/main?filepath=Notebooks%2FInverted_Pendulum_Control_Demo.ipynb)
 
-[Inverted Pendulum-Cart Pole Placement](https://mybinder.org/v2/gh/macs-lab/Python-Controls-Visualization/bdeb35d89f344c499a280fcf606a0be05411694c?filepath=Notebooks%2FInverted_Pendulum_Pole_Placement.ipynb)
+[Inverted Pendulum-Cart Pole Placement](https://mybinder.org/v2/gh/macs-lab/Python-Controls-Visualization/main?filepath=Notebooks%2FInverted_Pendulum_Pole_Placement.ipynb)
 
-[Transition from MATLAB to Python Controls Package](https://mybinder.org/v2/gh/macs-lab/Python-Controls-Visualization/bdeb35d89f344c499a280fcf606a0be05411694c?filepath=Notebooks%2FMatlab-to-Python.ipynb)
+[Transition from MATLAB to Python Controls Package](https://mybinder.org/v2/gh/macs-lab/Python-Controls-Visualization/main?filepath=Notebooks%2FMatlab-to-Python.ipynb)
 
 ## 1 - Visualizing Control Systems in Python
 
